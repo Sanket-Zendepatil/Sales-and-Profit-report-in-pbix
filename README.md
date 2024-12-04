@@ -1,1 +1,1 @@
-                ## Sales and Profit report in Power BI
+## Sales and Profit report in Power BI
